@@ -6,9 +6,9 @@ When the lat and long are fetched and added to the url you can do one more thing
 For example: https://maps.google.com/maps?q=Restaurant&ll=52.0255219,5.5368449&z=10&output=embed
 This will show you all the restaurant in the area of my location.
 
-Find ere the decomposition of the url:
-https://maps.google.com/maps? = The url for Google maps
-q=Restaurant =  the query that Google will uses for the search (Optional)
-&ll="40.712776,-74.005974" = Your latitude and longitude that google uses to locate you
-&z=10 = This is the zoom of the map this will determined the range of the map how lower the number how greater the range.
+Find ere the decomposition of the url: <br>
+https://maps.google.com/maps? = The url for Google maps <br>
+q=Restaurant =  the query that Google will uses for the search (Optional) <br>
+&ll="40.712776,-74.005974" = Your latitude and longitude that google uses to locate you <br>
+&z=10 = This is the zoom of the map this will determined the range of the map how lower the number how greater the range.<br>
 &output=embed = this tells Google it is a embeded.
