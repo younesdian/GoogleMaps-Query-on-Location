@@ -1,5 +1,6 @@
-# Google Maps iframe URL
-## On location
+# Google Maps Query URL
+### With users location
+
 This Script gets your location, returns it in a latitude (lat) and a longitude (long), this will be used in the Google maps url. So Google can use this to know from which location to search.
 When the lat and long are fetched and added to the url you can do one more thing: add a query so that google will search for your query in the area of the location the script got. The area is determined bij the "z" (zoom) in the url.
 
