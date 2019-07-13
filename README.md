@@ -16,7 +16,7 @@ The url for Google maps
 https://maps.google.com/maps?
 ```
 
-the query that Google will uses for the search (Optional)
+the query that Google will uses for the search
 ```
 q=Restaurant
 ```
@@ -26,12 +26,12 @@ Your latitude and longitude that google uses to know from which location to sear
 &ll="40.712776,-74.005974"
 ```
 
-This is the zoom of the map this will determined the range of the map how lower the number how greater the range.
+This is the zoom of the map this will determine the range of the map how lower the number how greater the range.
 ```
 &z=10
 ```
 
-this tells Google it is a embeded.
+this lets Google know it's embeded.
 ```
 &output=embed
 ```
